@@ -6,7 +6,7 @@ Dynamic user guilds system for discord abbreviated to "dugs" is a discord bot th
 
 ## Commands:
 
-List of available commands:
+List of available commands: (Use /dhelp in discord to access this same menu but its not fleshed out yet)
 
 1 Command: declarewar (Partially Working)
 
